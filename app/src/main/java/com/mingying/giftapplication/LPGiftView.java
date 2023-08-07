@@ -19,7 +19,7 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 /**
- * Created by yuhengyi on 2017/1/10.
+ * Created  on 2017/1/10.
  */
 
 public class LPGiftView extends RelativeLayout {

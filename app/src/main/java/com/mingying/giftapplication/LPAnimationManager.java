@@ -14,7 +14,7 @@ import java.util.TimerTask;
 
 
 /**
- * Created by yuhengyi on 2016/11/22.
+ * Created  on 2016/11/22.
  * Describe: 动画的管理类   小礼物
  */
 

@@ -1,7 +1,7 @@
 package com.mingying.giftapplication;
 
 /**
- * Created by yuhengyi on 2016/11/9.
+ * Created  on 2016/11/9.
  * Describe:
  */
 
